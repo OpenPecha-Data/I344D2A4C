@@ -1,0 +1,23 @@
+id: I344D2A4C
+initial_creation_type: ebook
+source_metadata:
+  id: BOK-015
+  title: ཞིང་སྒྲུབ་ཞལ་གདམས།
+  author: མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ཀརྨ་ངེས་དོན་བསྟན་རྒྱས།
+  sku: BOK-015
+  cover: BOK-015.jpg
+  volume: {}
+ebook_metadata:
+  title: ཞིང་སྒྲུབ་ཞལ་གདམས།
+  authors: *id001
+  sku: BOK-015
+  cover: BOK-015.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Tsawa
